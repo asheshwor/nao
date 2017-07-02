@@ -2,8 +2,8 @@
 
 A collection of materials related to NAO robot programming using Choregraphe and Python.
 
-## Demo
-
+## Presentation slides
+Slides are available at [https://github.com/asheshwor/nao/presentation]https://github.com/asheshwor/nao/presentation
 
 ## License:
 
@@ -14,3 +14,4 @@ See individual licenses for external data/tools used if any.
 ## Acknowledgements
 
 ## Attribution
+Reveal.js
