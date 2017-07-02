@@ -5,7 +5,7 @@
  */
 @import url(https://fonts.googleapis.com/css?family=Quicksand:400,700,400italic,700italic);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700);
-@import url(https://fonts.googleapis.com/css?family=Dosis|Gafata|Geo|Scada|Alegreya+Sans);
+@import url(https://fonts.googleapis.com/css?family=Dosis|Cuprum|Geo|Scada|Athiti);
 .reveal a {
   line-height: 1.3em; }
 
@@ -23,7 +23,7 @@ body {
   background-color: #f7fbfc; }
 
 .reveal {
-  font-family: "Gafata", sans-serif;
+  font-family: "Cuprum", sans-serif;
   font-size: 40px;
   font-weight: normal;
   color: #333; }
@@ -54,11 +54,11 @@ body {
 .reveal h6 {
   margin: 0 0 20px 0;
   color: #333;
-  font-family: "Scada", sans-serif;
+  font-family: "Athiti", sans-serif;
   font-weight: normal;
   line-height: 1.2;
   letter-spacing: -0.08em;
-  text-transform: uppercase;
+  /*text-transform: uppercase; */
   text-shadow: none;
   word-wrap: break-word; }
 
