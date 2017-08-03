@@ -84,7 +84,10 @@ body {
 .reveal p {
   margin: 20px 0;
   line-height: 1.3; }
-
+/* new for bg opacity */
+html.softbg .slide-background {
+    opacity: 0.5 !important;
+}
 /* Ensure certain elements are never larger than the slide itself */
 .reveal img,
 .reveal video,
